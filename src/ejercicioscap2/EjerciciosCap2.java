@@ -65,6 +65,10 @@ public class EjerciciosCap2 {
         return 0;
     }
     
+    public void Eje5(int a, int b, int c, int d){
+        int mayor;
+    }
+    
     public static void main(String[] args) {
         EjerciciosCap2 eje1 = new EjerciciosCap2();
         System.out.print("Ejercicios del Libro Fundamentos de la Programación, Capitulo 2:");
